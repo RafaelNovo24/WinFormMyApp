@@ -1,0 +1,10 @@
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\FancyWinForm\bin\Debug\FancyWinForm.exe.config
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\FancyWinForm\bin\Debug\FancyWinForm.exe
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\FancyWinForm\bin\Debug\FancyWinForm.pdb
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\FancyWinForm\obj\Debug\FancyWinForm.csproj.AssemblyReference.cache
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\FancyWinForm\obj\Debug\FancyWinForm.Main.resources
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\FancyWinForm\obj\Debug\FancyWinForm.Properties.Resources.resources
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\FancyWinForm\obj\Debug\FancyWinForm.csproj.GenerateResource.cache
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\FancyWinForm\obj\Debug\FancyWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\FancyWinForm\obj\Debug\FancyWinForm.exe
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\FancyWinForm\obj\Debug\FancyWinForm.pdb
